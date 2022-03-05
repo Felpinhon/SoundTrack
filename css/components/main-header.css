@@ -1,0 +1,9 @@
+.main-header {
+    display: flex;
+    background-color: #000;
+}
+
+.main-header .logo {
+    width: 95px;
+    height: 60px;
+}
