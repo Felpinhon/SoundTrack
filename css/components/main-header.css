@@ -1,9 +1,12 @@
 .main-header {
     display: flex;
+    justify-content: flex-end;
     background-color: #000;
+    padding-right: 15px;
 }
 
 .main-header .logo {
-    width: 95px;
+    width: 60px;
     height: 60px;
+    margin-right: 618px;
 }
